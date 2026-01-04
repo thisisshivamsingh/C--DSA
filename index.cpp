@@ -64,7 +64,7 @@ int main(){
 // bool sixth = (a!=b);
 // cout << sixth << endl;
 
-int a = 20;
-cout << !a << endl;
+// int a = 20;
+// cout << !a << endl;
 
 }
